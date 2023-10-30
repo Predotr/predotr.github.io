@@ -226,18 +226,6 @@ img.admin {
     display: block;
 }
 
-@media screen and (max-width: 800px) {
-    .tab-main label:before {
-        margin: 0;
-        font-size: 18px;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .tab-main label {
-        padding: 15px;
-    }
-}
 
 /*--//tab-content --*/
 /*-- /gallery --*/
@@ -357,43 +345,14 @@ form.contact-form {
 
 
 /*--/responsive--*/
-@media(max-width:1024px) {
-    .tab-main {
-        padding: 40px 0;
-        width: 90%;
-    }
-}
-
-@media(max-width:991px) {
-    .popup {
-        width: 40%;
-    }
-}
-
-@media(max-width:800px) {
-    .inner-w3layouts-wrap {
-        margin: 0 auto;
-        width: 90%;
-        padding-top: 3em;
-        text-align: center;
-    }
 
     .banner-info {
         padding-top: 3.5em;
     }
 }
 
-@media(max-width:768px) {
-    .tab-main {
-        padding: 40px 0;
-        width: 92%;
-    }
-}
 
-@media(max-width:640px) {
-    .popup {
-        width: 40%;
-    }
+
 
     .tab-main {
         padding: 40px 0;
@@ -405,14 +364,6 @@ form.contact-form {
     }
 }
 
-@media(max-width:480px) {
-
-    .inner-w3layouts-wrap h2,
-    .head-w3ls {
-        font-size: 1.2em;
-        letter-spacing: 2px;
-        margin: 0em 0 1em 0;
-    }
 
     .inner-w3layouts-wrap h4 {
         font-size: 0.9em;
@@ -429,11 +380,7 @@ form.contact-form {
     }
 }
 
-@media(max-width:414px) {
-    p {
-        font-size: 0.85em;
 
-    }
 
     .w3pvt-logo a {
         font-size: 0.9em;
@@ -480,8 +427,6 @@ form.contact-form {
     }
 }
 
-@media(max-width:384px) {}
 
-@media(max-width:375px) {}
 
 /*--//responsive--*/
